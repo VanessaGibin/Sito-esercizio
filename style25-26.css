@@ -44,6 +44,7 @@ h3 {
     border-radius: 8px;
     color: white;
     font-weight: bold;
+    font-size: 16px;
     font-style: italic;
     transform: rotate(10deg);
 }
@@ -137,3 +138,4 @@ footer {
         font-size: 20px;
     }
 }
+
